@@ -1,0 +1,2320 @@
+{
+  "id": "obra-156-epr-br153-lote2",
+  "nome": "OBRA 156 - EPR DUPLICAÇÃO BR 153 LOTE 2",
+  "descricao": "Controle de Contratos / Medições",
+  "filiais": [
+    {
+      "codigo": 156,
+      "sigla": "PV",
+      "nome": "156 - PV"
+    },
+    {
+      "codigo": 157,
+      "sigla": "FD",
+      "nome": "157 - FD (Faturamento Direto)"
+    }
+  ],
+  "atualizadoEm": "2026-07-09T03:26:50.255805",
+  "contratos": [
+    {
+      "id": "ALUG 012025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23703,
+      "fornecedor": "VANTOIL DE PAULA GOMES",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-10",
+      "valorContrato": 44596.0,
+      "valorAditivo": 0,
+      "valorTotal": 44596.0,
+      "saldo": 19384.19,
+      "valorMedido": 25211.81,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 3399.11
+        },
+        {
+          "mes": "2026-01",
+          "valor": 3635.45
+        },
+        {
+          "mes": "2026-02",
+          "valor": 3635.45
+        },
+        {
+          "mes": "2026-03",
+          "valor": 3635.45
+        },
+        {
+          "mes": "2026-04",
+          "valor": 3635.45
+        },
+        {
+          "mes": "2026-05",
+          "valor": 3635.45
+        },
+        {
+          "mes": "2026-06",
+          "valor": 3635.45
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 022025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23702,
+      "fornecedor": "AIRTON GONÇALVES",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-12",
+      "valorContrato": 30000.0,
+      "valorAditivo": 0,
+      "valorTotal": 30000.0,
+      "saldo": 10000.0,
+      "valorMedido": 20000.0,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 8000.0
+        },
+        {
+          "mes": "2026-01",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 032025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23728,
+      "fornecedor": "CARMEM GOMES DA SILVA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-23",
+      "valorContrato": 24970.0,
+      "valorAditivo": 0,
+      "valorTotal": 24970.0,
+      "saldo": 8256.4,
+      "valorMedido": 16713.6,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 6736.8
+        },
+        {
+          "mes": "2026-01",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1662.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 042025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23727,
+      "fornecedor": "LUCIANO FERREIRA TIDRE",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-23",
+      "valorContrato": 45220.0,
+      "valorAditivo": 0,
+      "valorTotal": 45220.0,
+      "saldo": 15006.4,
+      "valorMedido": 30213.6,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 12136.8
+        },
+        {
+          "mes": "2026-01",
+          "valor": 3012.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 3012.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 3012.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 3012.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 3012.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 3012.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 052025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23726,
+      "fornecedor": "NELSON TOLOTO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-23",
+      "valorContrato": 18220.0,
+      "valorAditivo": 0,
+      "valorTotal": 18220.0,
+      "saldo": 6006.4,
+      "valorMedido": 12213.6,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 4936.8
+        },
+        {
+          "mes": "2026-01",
+          "valor": 1212.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1212.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1212.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1212.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1212.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1212.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 062025 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23703,
+      "fornecedor": "VANTOIL DE PAULA GOMES",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-12-23",
+      "valorContrato": 22720.0,
+      "valorAditivo": 0,
+      "valorTotal": 22720.0,
+      "saldo": 7520.8,
+      "valorMedido": 15199.2,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 6136.8
+        },
+        {
+          "mes": "2026-01",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1508.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1508.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1508.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 072026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23953,
+      "fornecedor": "NEUZA MARIA GOMES OLIVEIRA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-12",
+      "valorContrato": 15196.0,
+      "valorAditivo": 0,
+      "valorTotal": 15196.0,
+      "saldo": 3745.2,
+      "valorMedido": 11450.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 5136.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1262.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1262.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1262.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1262.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1262.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 082026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23952,
+      "fornecedor": "JULIO CEZAR YASBICK JUNIOR",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-12",
+      "valorContrato": 24196.0,
+      "valorAditivo": 0,
+      "valorTotal": 24196.0,
+      "saldo": 5995.2,
+      "valorMedido": 18200.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 8136.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 2012.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2012.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2012.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2012.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2012.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 092026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23950,
+      "fornecedor": "NADIA JAQUELINE CUSSOLIN",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-20",
+      "valorContrato": 19396.0,
+      "valorAditivo": 0,
+      "valorTotal": 19396.0,
+      "saldo": 4795.2,
+      "valorMedido": 14600.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 6536.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1612.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1612.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1612.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1612.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1612.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 102026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24039,
+      "fornecedor": "PURFAM AGROPECUÁRIA LTDA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-19",
+      "valorContrato": 18196.0,
+      "valorAditivo": 0,
+      "valorTotal": 18196.0,
+      "saldo": 4495.2,
+      "valorMedido": 13700.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 6136.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1512.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1512.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 112026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24040,
+      "fornecedor": "ADELAIDE MENDES GALERANI",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-19",
+      "valorContrato": 25396.0,
+      "valorAditivo": 0,
+      "valorTotal": 25396.0,
+      "saldo": 6295.2,
+      "valorMedido": 19100.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 8536.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 2112.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2112.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2112.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2112.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2112.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 122026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23951,
+      "fornecedor": "MARCELO ALEXANDRE BALIELO ROSSI",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-02",
+      "valorContrato": 24000.0,
+      "valorAditivo": 0,
+      "valorTotal": 24000.0,
+      "saldo": 8000.0,
+      "valorMedido": 16000.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 8000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 132026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24083,
+      "fornecedor": "FRANCISCO ELOI BARBOSA FILHO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-28",
+      "valorContrato": 19996.0,
+      "valorAditivo": 0,
+      "valorTotal": 19996.0,
+      "saldo": 4945.2,
+      "valorMedido": 15050.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 6736.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1662.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1662.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 142026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23726,
+      "fornecedor": "NELSON TOLOTO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-28",
+      "valorContrato": 12796.0,
+      "valorAditivo": 0,
+      "valorTotal": 12796.0,
+      "saldo": 3145.2,
+      "valorMedido": 9650.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 4336.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 1062.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1062.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1062.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1062.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1062.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 152026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24084,
+      "fornecedor": "JOSE ANTONIO ZARATE ELIAS",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-01-28",
+      "valorContrato": 30196.0,
+      "valorAditivo": 0,
+      "valorTotal": 30196.0,
+      "saldo": 7495.2,
+      "valorMedido": 22700.8,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 10136.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 2512.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2512.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2512.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2512.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2512.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 172026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24224,
+      "fornecedor": "CARLOS HENRIQUE DE MELLO FILHO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-10",
+      "valorContrato": 24000.0,
+      "valorAditivo": 0,
+      "valorTotal": 24000.0,
+      "saldo": 8000.0,
+      "valorMedido": 16000.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 8000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 182026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24223,
+      "fornecedor": "JULIO CESAR PINTO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-05",
+      "valorContrato": 42196.0,
+      "valorAditivo": 0,
+      "valorTotal": 42196.0,
+      "saldo": 14008.0,
+      "valorMedido": 28188.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 14136.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 3512.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 3512.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 3512.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 3512.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 192026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24311,
+      "fornecedor": "ERIC MURILO MACIEL",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-14",
+      "valorContrato": 35325.0,
+      "valorAditivo": 0,
+      "valorTotal": 35325.0,
+      "saldo": 16485.0,
+      "valorMedido": 18840.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 9420.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2355.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2355.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2355.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2355.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 202026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24312,
+      "fornecedor": "SERGIO LUIZ SOARES",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-10",
+      "valorContrato": 14470.0,
+      "valorAditivo": 0,
+      "valorTotal": 14470.0,
+      "saldo": 6682.0,
+      "valorMedido": 7788.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 3936.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 962.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 962.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 962.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 962.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 212026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24313,
+      "fornecedor": "MARIA REGINA MONTEIRO LARCHER",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-10",
+      "valorContrato": 33220.0,
+      "valorAditivo": 0,
+      "valorTotal": 33220.0,
+      "saldo": 15432.0,
+      "valorMedido": 17788.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 8936.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 2212.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2212.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2212.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2212.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 22026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24314,
+      "fornecedor": "LOURDES MOÇATO DE SOUZA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-02-19",
+      "valorContrato": 28720.0,
+      "valorAditivo": 0,
+      "valorTotal": 28720.0,
+      "saldo": 13332.0,
+      "valorMedido": 15388.0,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 7736.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 1912.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1912.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1912.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1912.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 232026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24039,
+      "fornecedor": "PURFAM AGROPECUÁRIA LTDA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-03-03",
+      "valorContrato": 25720.0,
+      "valorAditivo": 0,
+      "valorTotal": 25720.0,
+      "saldo": 13644.8,
+      "valorMedido": 12075.2,
+      "medicoes": [
+        {
+          "mes": "2026-03",
+          "valor": 6936.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1712.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1712.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1712.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 242026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24490,
+      "fornecedor": "PÉROLA ABUJAMRA HAGE POMPÉIA COUTINHO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-03-12",
+      "valorContrato": 16950.0,
+      "valorAditivo": 0,
+      "valorTotal": 16950.0,
+      "saldo": 7650.0,
+      "valorMedido": 9300.0,
+      "medicoes": [
+        {
+          "mes": "2026-03",
+          "valor": 5250.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 1350.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1350.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1350.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 252026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24564,
+      "fornecedor": "GUSTAVO VILLANI SERRA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-03-10",
+      "valorContrato": 34720.0,
+      "valorAditivo": 0,
+      "valorTotal": 34720.0,
+      "saldo": 18444.8,
+      "valorMedido": 16275.2,
+      "medicoes": [
+        {
+          "mes": "2026-03",
+          "valor": 9336.8
+        },
+        {
+          "mes": "2026-04",
+          "valor": 2312.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 2312.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 2312.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 262026 - 156 / 1",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24733,
+      "fornecedor": "MICHEL DE SOUZA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-04-10",
+      "valorContrato": 54000.0,
+      "valorAditivo": 0,
+      "valorTotal": 54000.0,
+      "saldo": 33000.0,
+      "valorMedido": 21000.0,
+      "medicoes": [
+        {
+          "mes": "2026-04",
+          "valor": 18000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1500.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1500.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 262026 - 156 / 2",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24904,
+      "fornecedor": "MIRIAM DE SOUZA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-04-10",
+      "valorContrato": 54000.0,
+      "valorAditivo": 0,
+      "valorTotal": 54000.0,
+      "saldo": 51000.0,
+      "valorMedido": 3000.0,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 1500.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1500.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 262026 - 156 / 3",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24902,
+      "fornecedor": "DIENI ESTEFANI DE SOUZA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-04-10",
+      "valorContrato": 54000.0,
+      "valorAditivo": 0,
+      "valorTotal": 54000.0,
+      "saldo": 51000.0,
+      "valorMedido": 3000.0,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 1500.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1500.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 262026 - 156 / 4",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24903,
+      "fornecedor": "MARIELEN DE SOUZA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-04-10",
+      "valorContrato": 54000.0,
+      "valorAditivo": 0,
+      "valorTotal": 54000.0,
+      "saldo": 51000.0,
+      "valorMedido": 3000.0,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 1500.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1500.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 272026 - 156",
+      "tipoContrato": "Arrendamento",
+      "filial": 156,
+      "codigoFornecedor": 23332,
+      "fornecedor": "CLEUDINEZ APARECIDO CRUZ (PEDREIRA JACARÉZINHO)",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2025-07-01",
+      "valorContrato": 720000.0,
+      "valorAditivo": 0,
+      "valorTotal": 720000.0,
+      "saldo": 510000.0,
+      "valorMedido": 210000.0,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-01",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 30000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 30000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 282026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24849,
+      "fornecedor": "JOSE CARLOS VERALDO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-04-13",
+      "valorContrato": 24075.0,
+      "valorAditivo": 0,
+      "valorTotal": 24075.0,
+      "saldo": 14445.0,
+      "valorMedido": 9630.0,
+      "medicoes": [
+        {
+          "mes": "2026-04",
+          "valor": 6420.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 1605.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1605.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 292026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 23950,
+      "fornecedor": "NADIA JAQUELINE CUSSOLIN",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-05-22",
+      "valorContrato": 25777.6,
+      "valorAditivo": 0,
+      "valorTotal": 25777.6,
+      "saldo": 17128.0,
+      "valorMedido": 8649.6,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 6936.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1712.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 302026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 24948,
+      "fornecedor": "ESTHER ALBANO PLANTAVINI PINHEIRO",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-05-29",
+      "valorContrato": 28777.6,
+      "valorAditivo": 0,
+      "valorTotal": 28777.6,
+      "saldo": 19128.0,
+      "valorMedido": 9649.6,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 7736.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 1912.8
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 312026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 17418,
+      "fornecedor": "CARINA PLOCHARSK",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-05-01",
+      "valorContrato": 9000.0,
+      "valorAditivo": 0,
+      "valorTotal": 9000.0,
+      "saldo": 7500.0,
+      "valorMedido": 1500.0,
+      "medicoes": [
+        {
+          "mes": "2026-06",
+          "valor": 1500.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "ALUG 322026 - 156",
+      "tipoContrato": "Locação de Imovel",
+      "filial": 156,
+      "codigoFornecedor": 22804,
+      "fornecedor": "JOSE CARLOS BARBOSA",
+      "objetivo": "LOCAÇÃO DE IMOVEL",
+      "dataInicio": "2026-05-01",
+      "valorContrato": 8400.0,
+      "valorAditivo": 0,
+      "valorTotal": 8400.0,
+      "saldo": 7000.0,
+      "valorMedido": 1400.0,
+      "medicoes": [
+        {
+          "mes": "2026-06",
+          "valor": 1400.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 05/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 4156,
+      "fornecedor": "CPE COMERCIO DE EQUIOAMENTOS",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO TOPOGRAFICO",
+      "dataInicio": "2025-12-03",
+      "valorContrato": 28000.0,
+      "valorAditivo": 0,
+      "valorTotal": 28000.0,
+      "saldo": 13000.0,
+      "valorMedido": 15000.0,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 3000.0
+        },
+        {
+          "mes": "2026-01",
+          "valor": 3000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 3000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 3000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 3000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 06/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 18755,
+      "fornecedor": "DRJ RADIO DE COMUNICAÇÃO LTDA",
+      "objetivo": "LOCAÇÃO DE RADIOS COMUNICADORES",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 96660.0,
+      "valorAditivo": 0,
+      "valorTotal": 96660.0,
+      "saldo": 58266.13,
+      "valorMedido": 38393.87,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 7191.96
+        },
+        {
+          "mes": "2026-03",
+          "valor": 6406.24
+        },
+        {
+          "mes": "2026-04",
+          "valor": 8089.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 8089.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 8617.67
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 10/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 19089,
+      "fornecedor": "TRANALLI ENGENHARIA E SERVICOS LTDA",
+      "objetivo": "LOCAÇÃO DE VEICULO LEVE",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 60000.0,
+      "valorAditivo": 0,
+      "valorTotal": 60000.0,
+      "saldo": 30000.0,
+      "valorMedido": 30000.0,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 5000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 5000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 5000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 5000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 5000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 5000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 12/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 13429,
+      "fornecedor": "MOVIDA LOCAÇÃO DE VEICULOS",
+      "objetivo": "LOCAÇÃO DE VEICULO LEVE",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 450171.48,
+      "valorAditivo": 0,
+      "valorTotal": 450171.48,
+      "saldo": 270560.47,
+      "valorMedido": 179611.01,
+      "medicoes": [
+        {
+          "mes": "2026-03",
+          "valor": 39612.23
+        },
+        {
+          "mes": "2026-04",
+          "valor": 39822.18
+        },
+        {
+          "mes": "2026-05",
+          "valor": 53367.78
+        },
+        {
+          "mes": "2026-06",
+          "valor": 46808.82
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 13/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 24578,
+      "fornecedor": "63.887.084 JOAO ADRIANO ELIAS",
+      "objetivo": "LOCAÇÃO DE CAMINHÃO VIGAR",
+      "dataInicio": "2026-02-19",
+      "valorContrato": 110000.0,
+      "valorAditivo": 0,
+      "valorTotal": 110000.0,
+      "saldo": 67818.57,
+      "valorMedido": 42181.43,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 3571.43
+        },
+        {
+          "mes": "2026-03",
+          "valor": 10000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 10000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 8610.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 10000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 15/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 2103,
+      "fornecedor": "CONVICTA LOCACOES DE EQUIPAMENTOS LTDA",
+      "objetivo": "LOCAÇÃO DE CILO MOVEL",
+      "dataInicio": "2026-05-11",
+      "valorContrato": 72000.0,
+      "valorAditivo": 0,
+      "valorTotal": 72000.0,
+      "saldo": 46563.6,
+      "valorMedido": 25436.4,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 8093.4
+        },
+        {
+          "mes": "2026-06",
+          "valor": 17343.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 03/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 1756,
+      "fornecedor": "MAY MARTINS & CIA LTDA",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-02-01",
+      "valorContrato": 968292.0,
+      "valorAditivo": 0,
+      "valorTotal": 968292.0,
+      "saldo": 616182.83,
+      "valorMedido": 352109.17,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 26142.86
+        },
+        {
+          "mes": "2026-03",
+          "valor": 52557.37
+        },
+        {
+          "mes": "2026-04",
+          "valor": 80355.9
+        },
+        {
+          "mes": "2026-05",
+          "valor": 93311.52
+        },
+        {
+          "mes": "2026-06",
+          "valor": 99741.52
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 01/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 1511,
+      "fornecedor": "A2Z LOCAÇÕES PESADAS",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-01-02",
+      "valorContrato": 2430000.0,
+      "valorAditivo": 0,
+      "valorTotal": 2430000.0,
+      "saldo": 1035637.19,
+      "valorMedido": 1394362.81,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 34919.35
+        },
+        {
+          "mes": "2026-02",
+          "valor": 195071.43
+        },
+        {
+          "mes": "2026-03",
+          "valor": 234339.56
+        },
+        {
+          "mes": "2026-04",
+          "valor": 308716.38
+        },
+        {
+          "mes": "2026-05",
+          "valor": 302526.46
+        },
+        {
+          "mes": "2026-06",
+          "valor": 318789.63
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 02/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 2573,
+      "fornecedor": "TUKA RENTAL LOCAÇÃO DE EQUIPAMENTOS LTDA",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-01-24",
+      "valorContrato": 576000.0,
+      "valorAditivo": 0,
+      "valorTotal": 576000.0,
+      "saldo": 326386.18,
+      "valorMedido": 249613.82,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 62620.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 48249.82
+        },
+        {
+          "mes": "2026-04",
+          "valor": 46248.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 46248.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 46248.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 02/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 1506,
+      "fornecedor": "AGISA SOLUÇÕES MODULARES",
+      "objetivo": "LOCAÇÃO DE CONTÊINERES",
+      "dataInicio": "2025-12-29",
+      "valorContrato": 164000.0,
+      "valorAditivo": 0,
+      "valorTotal": 164000.0,
+      "saldo": 88724.0,
+      "valorMedido": 75276.0,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 11845.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 13700.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 12432.75
+        },
+        {
+          "mes": "2026-04",
+          "valor": 12432.75
+        },
+        {
+          "mes": "2026-05",
+          "valor": 12432.75
+        },
+        {
+          "mes": "2026-06",
+          "valor": 12432.75
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 03/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 4708,
+      "fornecedor": "AGROROQUE SERVIÇOS E LOCAÇÃO",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 6686000.0,
+      "valorAditivo": 3124000.0,
+      "valorTotal": 9810000.0,
+      "saldo": 5730042.3,
+      "valorMedido": 4079957.7,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 426000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 754910.72
+        },
+        {
+          "mes": "2026-03",
+          "valor": 732526.39
+        },
+        {
+          "mes": "2026-04",
+          "valor": 669735.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 705323.08
+        },
+        {
+          "mes": "2026-06",
+          "valor": 791462.51
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 04/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 20868,
+      "fornecedor": "CARVALHO E CARVALHO LOCAÇÃO",
+      "objetivo": "LOCAÇÃO DE ÔNIBUS",
+      "dataInicio": "2025-12-22",
+      "valorContrato": 936000.0,
+      "valorAditivo": 0,
+      "valorTotal": 936000.0,
+      "saldo": 384029.65,
+      "valorMedido": 551970.35,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 60498.7
+        },
+        {
+          "mes": "2026-02",
+          "valor": 71900.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 94000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 104833.33
+        },
+        {
+          "mes": "2026-05",
+          "valor": 107283.32
+        },
+        {
+          "mes": "2026-06",
+          "valor": 113455.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 08/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 12312,
+      "fornecedor": "GENILSON CHILHEN TRANSPORTES - PR",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-01-27",
+      "valorContrato": 456000.0,
+      "valorAditivo": 0,
+      "valorTotal": 456000.0,
+      "saldo": 261820.96,
+      "valorMedido": 194179.04,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 6129.04
+        },
+        {
+          "mes": "2026-02",
+          "valor": 38000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 36050.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 38000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 38000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 38000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 09/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 7879,
+      "fornecedor": "TERSI TRANSPORTES LTDA",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-01-08",
+      "valorContrato": 198000.0,
+      "valorAditivo": 256000.0,
+      "valorTotal": 454000.0,
+      "saldo": 205185.99,
+      "valorMedido": 248814.01,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 16677.42
+        },
+        {
+          "mes": "2026-02",
+          "valor": 29071.43
+        },
+        {
+          "mes": "2026-03",
+          "valor": 43645.16
+        },
+        {
+          "mes": "2026-04",
+          "valor": 46033.33
+        },
+        {
+          "mes": "2026-05",
+          "valor": 55960.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 57426.67
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 14/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 4823,
+      "fornecedor": "ARMAC LOCACAO, LOGISTICA E SERVICOS LTDA",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-05-05",
+      "valorContrato": 1889160.0,
+      "valorAditivo": 0,
+      "valorTotal": 1889160.0,
+      "saldo": 1365079.64,
+      "valorMedido": 524080.36,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 157817.9
+        },
+        {
+          "mes": "2026-06",
+          "valor": 366262.46
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 16/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 157,
+      "codigoFornecedor": 12789,
+      "fornecedor": "YAMADIESEL COMERCIO DE MAQUINAS LTDA",
+      "objetivo": "LOCAÇÃO DE EQUIPAMENTO PESADOS",
+      "dataInicio": "2026-05-13",
+      "valorContrato": 1530000.0,
+      "valorAditivo": 0,
+      "valorTotal": 1530000.0,
+      "saldo": 1156320.35,
+      "valorMedido": 373679.65,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 144468.15
+        },
+        {
+          "mes": "2026-06",
+          "valor": 229211.5
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "LOC Nº 17/2026 – CC 26/156",
+      "tipoContrato": "Locação de Equipamento",
+      "filial": 156,
+      "codigoFornecedor": 24273,
+      "fornecedor": "LOXAM DO BRASIL SA",
+      "objetivo": "LOCAÇÃO DE ILUMINAÇÃO MOVEL",
+      "dataInicio": "2026-05-28",
+      "valorContrato": 54714.08,
+      "valorAditivo": 0,
+      "valorTotal": 54714.08,
+      "saldo": 41035.56,
+      "valorMedido": 13678.52,
+      "medicoes": [
+        {
+          "mes": "2026-06",
+          "valor": 13678.52
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 01/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 23664,
+      "fornecedor": "ALCIDES MICHELATO ALBERTO - PR",
+      "objetivo": "SERVIÇO DE TOPOGRAFIA",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 108561.6,
+      "valorAditivo": 0,
+      "valorTotal": 108561.6,
+      "saldo": 47568.84,
+      "valorMedido": 60992.76,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 10246.8
+        },
+        {
+          "mes": "2026-02",
+          "valor": 9046.8
+        },
+        {
+          "mes": "2026-03",
+          "valor": 8916.64
+        },
+        {
+          "mes": "2026-04",
+          "valor": 9046.8
+        },
+        {
+          "mes": "2026-05",
+          "valor": 8546.8
+        },
+        {
+          "mes": "2026-06",
+          "valor": 8546.8
+        },
+        {
+          "mes": "2026-07",
+          "valor": 6642.12
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 02/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 19089,
+      "fornecedor": "TRANALLI ENGENHARIA E SERVICOS LTDA",
+      "objetivo": "SERVIÇO DE ENGENHARIA E GESTÃO DE OBRAS",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 452484.48,
+      "valorAditivo": 0,
+      "valorTotal": 452484.48,
+      "saldo": 238338.27,
+      "valorMedido": 214146.21,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 36122.36
+        },
+        {
+          "mes": "2026-02",
+          "valor": 36201.96
+        },
+        {
+          "mes": "2026-03",
+          "valor": 36092.45
+        },
+        {
+          "mes": "2026-04",
+          "valor": 35558.04
+        },
+        {
+          "mes": "2026-05",
+          "valor": 34251.37
+        },
+        {
+          "mes": "2026-06",
+          "valor": 35920.03
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 03/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 21108,
+      "fornecedor": "SOVIVA GESTAO ADMINISTRATIVA LTDA",
+      "objetivo": "SERVIÇO DE SEÇÃO TECNICA E DE CUSTO",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 254637.24,
+      "valorAditivo": 0,
+      "valorTotal": 254637.24,
+      "saldo": 127531.16,
+      "valorMedido": 127106.08,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 21185.49
+        },
+        {
+          "mes": "2026-02",
+          "valor": 21185.49
+        },
+        {
+          "mes": "2026-03",
+          "valor": 21185.49
+        },
+        {
+          "mes": "2026-04",
+          "valor": 21185.49
+        },
+        {
+          "mes": "2026-05",
+          "valor": 21182.06
+        },
+        {
+          "mes": "2026-06",
+          "valor": 21182.06
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 04/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 23930,
+      "fornecedor": "VICTOR HUGO PIRES ENGENHARIA",
+      "objetivo": "SERVIÇO DE ENGENHEIRO DE QUALIDADE",
+      "dataInicio": "2026-01-01",
+      "valorContrato": 180000.0,
+      "valorAditivo": 0,
+      "valorTotal": 180000.0,
+      "saldo": 135000.0,
+      "valorMedido": 45000.0,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 15000.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 15000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 15000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 05/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 23963,
+      "fornecedor": "R&B ENGENHARIA LTDA",
+      "objetivo": "SERVIÇOS DE ENGENHARIA E GESTÃO DE OBRAS.",
+      "dataInicio": "2026-01-19",
+      "valorContrato": 240000.0,
+      "valorAditivo": 0,
+      "valorTotal": 240000.0,
+      "saldo": 132666.67,
+      "valorMedido": 107333.33,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 7333.33
+        },
+        {
+          "mes": "2026-02",
+          "valor": 20000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 20000.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 20000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 20000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 20000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 06/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 20650,
+      "fornecedor": "MATOSO ENGENHARIA LTDA",
+      "objetivo": "SERVIÇOS DE ENGENHARIA PLANEJAMENTO/PRODUÇÃO",
+      "dataInicio": "2026-02-01",
+      "valorContrato": 222416.92,
+      "valorAditivo": 0,
+      "valorTotal": 222416.92,
+      "saldo": 121496.58,
+      "valorMedido": 100920.34,
+      "medicoes": [
+        {
+          "mes": "2026-02",
+          "valor": 20185.44
+        },
+        {
+          "mes": "2026-03",
+          "valor": 20185.44
+        },
+        {
+          "mes": "2026-04",
+          "valor": 20185.44
+        },
+        {
+          "mes": "2026-05",
+          "valor": 20182.01
+        },
+        {
+          "mes": "2026-06",
+          "valor": 20182.01
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PJ Nº 07/2026 – CC 26/156",
+      "tipoContrato": "Prestação de Serviço - PJ",
+      "filial": 156,
+      "codigoFornecedor": 25042,
+      "fornecedor": "M.A PEREIRA",
+      "objetivo": "SERVIÇO DE TOPOGRAFIA",
+      "dataInicio": "2026-06-30",
+      "valorContrato": 120000.0,
+      "valorAditivo": 0,
+      "valorTotal": 120000.0,
+      "saldo": 108000.0,
+      "valorMedido": 12000.0,
+      "medicoes": [
+        {
+          "mes": "2026-07",
+          "valor": 12000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 01/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 10256,
+      "fornecedor": "COMANDO NORTE - SISTEMAS DE SEGURANCA LTDA - PR",
+      "objetivo": "VIGILÂNCIA PATRIMONIAL DESARMADA",
+      "dataInicio": "2025-12-13",
+      "valorContrato": 1221000.0,
+      "valorAditivo": 0,
+      "valorTotal": 1221000.0,
+      "saldo": 899782.27,
+      "valorMedido": 321217.73,
+      "medicoes": [
+        {
+          "mes": "2025-12",
+          "valor": 18096.77
+        },
+        {
+          "mes": "2026-01",
+          "valor": 84096.77
+        },
+        {
+          "mes": "2026-02",
+          "valor": 99000.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 95274.19
+        },
+        {
+          "mes": "2026-04",
+          "valor": 24750.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 02/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 23955,
+      "fornecedor": "JARACA LTDA (SETTI EVENTOS E SERVIÇOS)",
+      "objetivo": "FORNECIMENTO DE REFEIÇÃO",
+      "dataInicio": "2026-01-05",
+      "valorContrato": 2921864.0,
+      "valorAditivo": 0,
+      "valorTotal": 2921864.0,
+      "saldo": 1590608.0,
+      "valorMedido": 1331256.0,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 31996.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 153356.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 235572.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 258560.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 322000.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 329772.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 03/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 24027,
+      "fornecedor": "M&M HOTEL LTDA",
+      "objetivo": "ALOJAMENTO / REFEIÇÃO",
+      "dataInicio": "2026-01-02",
+      "valorContrato": 1651200.0,
+      "valorAditivo": 0,
+      "valorTotal": 1651200.0,
+      "saldo": -132484.0,
+      "valorMedido": 1783684.0,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 206400.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 206400.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 341456.0
+        },
+        {
+          "mes": "2026-04",
+          "valor": 345941.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 346447.0
+        },
+        {
+          "mes": "2026-06",
+          "valor": 337040.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 04/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 24149,
+      "fornecedor": "IMPERIO PORTATIL LOCACOES LTDA",
+      "objetivo": "LOCAÇÃO DE BANHEIROS QUIMICOS C/ LIMPEZA",
+      "dataInicio": "2026-03-01",
+      "valorContrato": 184800.0,
+      "valorAditivo": 0,
+      "valorTotal": 184800.0,
+      "saldo": 48955.17,
+      "valorMedido": 135844.83,
+      "medicoes": [
+        {
+          "mes": "2026-01",
+          "valor": 9650.0
+        },
+        {
+          "mes": "2026-02",
+          "valor": 18040.0
+        },
+        {
+          "mes": "2026-03",
+          "valor": 17883.86
+        },
+        {
+          "mes": "2026-04",
+          "valor": 26400.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 30870.97
+        },
+        {
+          "mes": "2026-06",
+          "valor": 33000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 05/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 19428,
+      "fornecedor": "CONCREQUALI SERVIÇOS LTDA",
+      "objetivo": "PRESTAÇÃO DE SERVIÇO LABORATORIO",
+      "dataInicio": "2026-03-21",
+      "valorContrato": 444800.0,
+      "valorAditivo": 0,
+      "valorTotal": 444800.0,
+      "saldo": 292508.46,
+      "valorMedido": 152291.54,
+      "medicoes": [
+        {
+          "mes": "2026-03",
+          "valor": 19432.26
+        },
+        {
+          "mes": "2026-04",
+          "valor": 44000.0
+        },
+        {
+          "mes": "2026-05",
+          "valor": 44859.28
+        },
+        {
+          "mes": "2026-06",
+          "valor": 44000.0
+        }
+      ],
+      "planejado": []
+    },
+    {
+      "id": "PSE Nº 06/2026 – CC 25/156",
+      "tipoContrato": "Prestação de Serviço",
+      "filial": 156,
+      "codigoFornecedor": 24740,
+      "fornecedor": "INPEX INDUSTRIA PAULISTA DE EXPLOSIVOS LTDA",
+      "objetivo": "FORN. DE EXPLOSIVOS E SERV. DE DESMONTE DE ROCHAS",
+      "dataInicio": "2026-05-04",
+      "valorContrato": 1928826.36,
+      "valorAditivo": 0,
+      "valorTotal": 1928826.36,
+      "saldo": 1895103.09,
+      "valorMedido": 33723.27,
+      "medicoes": [
+        {
+          "mes": "2026-05",
+          "valor": 20539.64
+        },
+        {
+          "mes": "2026-06",
+          "valor": 13183.63
+        }
+      ],
+      "planejado": []
+    }
+  ]
+}
